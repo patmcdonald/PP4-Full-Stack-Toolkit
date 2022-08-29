@@ -1,1 +1,1 @@
-web: gunicorn pp4pat.wsgi:application
+web: gunicorn PP4.wsgi
