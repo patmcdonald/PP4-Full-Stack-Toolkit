@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'pp4pat.wsgi.application'
+WSGI_APPLICATION = 'PP4.wsgi.application'
 
 
 # Database
